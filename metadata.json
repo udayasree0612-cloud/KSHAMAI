@@ -1,0 +1,6 @@
+{
+  "name": "KshamAI",
+  "description": "AI-Powered Competency Intelligence for Official Statistics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
